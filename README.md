@@ -1,2 +1,2 @@
 # My-First-Project
-Using analysis by using Pyhton
+Analysis by using Pyhton
